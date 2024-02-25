@@ -1,0 +1,21 @@
+.navbar-section{
+    background-color:#152737;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+}
+.search-bar{
+    height: 30px;
+    margin-top: 8px;
+    margin-right: 15px;
+    border-radius: 12px;
+}
+
+.text-elements{
+    color: white;
+    font-size: 14px;
+    margin-right: 12px;
+    margin-left: 12px;
+    font-family:sans-serif;
+}

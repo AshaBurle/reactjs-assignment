@@ -1,0 +1,36 @@
+.group4{
+    background-color: #ccccff;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.view-button1{
+    background-color: 	 #3377ff;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+    margin-top: 160px;
+}
+.end-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 80px;
+    width: 230px;
+    
+}
+
+.paras{
+    font-size: 14px;
+    align-self: center;
+}
+.heads{
+    align-self: center;
+    font-size: 16px;
+}

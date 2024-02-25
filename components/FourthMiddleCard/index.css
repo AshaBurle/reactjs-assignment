@@ -1,0 +1,60 @@
+.middle{
+    display: flex;
+    flex-direction: column;
+}
+
+.spanFourth{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.btn5{
+    background-color:#d9d9d9;
+    color: #3377ff;
+    font-size: 10px;
+    border-width: 0px;
+    width: 60px;
+    height: 22px;
+    border-radius: 8px;
+
+
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box{
+    background-color: #ffe6cc;
+    border-radius: 10px;
+    margin-left: 14px;
+    height: 20vh;
+    font-size: 12px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.insidebtn{
+    background-color: white;
+    border-width: 0px;
+    margin-right: 6px;
+    margin-left: 15px;
+    height: 25px;
+    
+
+}
+
+.showbtn{
+    font-size: 14px;
+    color:#80aaff;
+
+}
+.subhead{
+    font-size: 16px;
+}
+
+.subpara{
+    font-size: 12px;
+}

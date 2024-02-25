@@ -1,0 +1,35 @@
+.group2{
+    background-color: #ccccff;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.view-button{
+    background-color: 	 #3377ff;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+}
+.end-card7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 40px;
+    width: 230px;
+    
+}
+
+.para7{
+    font-size: 14px;
+    align-self: center;
+}
+.head7{
+    align-self: center;
+    font-size: 16px;
+}

@@ -1,0 +1,24 @@
+.footer{
+    background-color: #152737;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 80px;
+
+}
+.category{
+    margin: 0px;
+    margin-right: 80px;
+    text-align: start;
+}
+.head9{
+    font-size: 16px;
+}
+.para9{
+    font-size: 12px;
+}
+.lasttext{
+    align-self: center;
+}

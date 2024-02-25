@@ -1,0 +1,26 @@
+.middle-card{
+    text-align: start;
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.para{
+   margin-left: 10px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 16px;
+   
+   
+  
+}
+
+.trail{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bluestyle{
+    color:#80aaff;
+    font-size: 14px;
+}
